@@ -1,6 +1,7 @@
 # Elden-Ring-Nightreign-Legal-Relic-Generator
 This repo is used to verify whether combinations of Relic effects are valid.<br>
-<br><b>This spreadsheet can only run on Excel 2024 or later versions; other versions are not compatible (the 365 version might work, but I'm not certain).</b>
+<br><b>Please use the following link to create your own copy.</b>
+<br><b>https://docs.google.com/spreadsheets/d/1s_HFEHD5WRSlKXd5i1vFLL_kdQ_5mYz0HsweqhCa7Qg/edit?usp=sharing</b>
 
 ## Main Sheet: sheets.xlsx
 所有操作在第一頁"UI"頁操作<br>
