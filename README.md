@@ -3,16 +3,14 @@ This repo is used to verify whether combinations of Relic effects are valid.<br>
 <br><b>Please use the following link to create your own copy.</b>
 <br><b>https://docs.google.com/spreadsheets/d/1s_HFEHD5WRSlKXd5i1vFLL_kdQ_5mYz0HsweqhCa7Qg/edit?usp=sharing</b>
 
-## Main Sheet: sheets.xlsx
+## Main Sheet
 所有操作在第一頁"UI"頁操作<br>
 不要修改其他頁，除非你知道你在做什麼<br>
-UI頁分兩個部分A1:B8、A11:B18<br>
-請忽略D、E兩欄他們是排序計算用的<br>
+UI頁分兩個部分A1:B8、D1:F8<br>
 
 All operations should be performed on the first page, "UI".<br>
 Do not modify other pages unless you know what you are doing.<br>
-The UI page is divided into two sections: A1:B8 and A11:B18.<br>
-Please ignore columns D and E; they are used for sorting calculations.<br>
+The UI page is divided into two sections: A1:B8 and D1:F8.<br>
 
 ### UI
 你可以操作的部分是UI頁的B1:B8<br>
@@ -43,8 +41,8 @@ If you have not purchased the DLC, please do not use Relic IDs from the 200-235 
 I strongly recommend using only Relic IDs from the 100-235 range.<br>
 
 ### Final Result
-A11:B18是最終結果區，包含排序及補上空ID(Empty ID:4294967295)<br>
+D1:F8是最終結果區，包含排序及補上空ID(Empty ID:4294967295)<br>
 請注意，你的選擇順序跟最終順序可能有所不同<br>
 
-A11:B18 is the final results range, containing sorted data and filled-in empty IDs (Empty ID: 4294967295).<br>
+D1:F8 is the final results range, containing sorted data and filled-in empty IDs (Empty ID: 4294967295).<br>
 Please note that your selection order may differ from the final order.<br>
